@@ -1,19 +1,18 @@
 {
   "name": "simple-react-panel",
-  "version": "1.0.0",
-  "description": "Grafana Panel Plugin Template",
+  "version": "0.0.1-dev",
+  "description": "GitLab Pairing Matrix",
   "scripts": {
     "build": "grafana-toolkit plugin:build",
     "test": "grafana-toolkit plugin:test",
     "dev": "grafana-toolkit plugin:dev",
     "watch": "grafana-toolkit plugin:dev --watch"
   },
-  "repository": "github:grafana/simple-react-panel",
-  "author": "Grafana Labs <team@grafana.com> (https://grafana.com)",
+  "repository": "github:iilei/gitlab-pairing-matrix",
+  "author": "Iilei • Jochen Preusche <iilei@users.noreply.github.com>",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/grafana/simple-react-panel/issues",
-    "email": "plugins@grafana.com"
+    "url": "https://github.com/iilei/gitlab-pairing-matrix/issues"
   },
   "devDependencies": {
     "@grafana/data": "^7.0.0",
